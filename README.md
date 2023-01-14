@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@salmanqureshi97)
 
 - 💬 Ask me about **Angular, NodeJS, Django Rest Framework, JavaScript, TypeScript, Python**
 
-- 📫 reach me @ **salmanqureshi97@outlook.com**
+- 📫 reach me on [LinkedIn](https://www.linkedin.com/in/salman-qureshi-a2b117201/)
 
-- ⚡ Fun fact, I make music in my free time, find me on spotify [https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ)
+- ⚡ Fun fact, I make music in my free time, find me on [Spotify](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

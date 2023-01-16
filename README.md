@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salman</h1>
-<h3 align="center">a software geek</h3>
+<h3 align="center">a musician & stack overflow user</h3>
 
-- 🔭 I’m currently working on [a stealth startups MVP](NOPE)
+- 🔭 I’m currently working on **a stealth startups MVP**
 
 - 🌱 I’m currently learning **Data science**
 

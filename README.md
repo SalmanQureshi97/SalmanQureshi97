@@ -3,7 +3,6 @@
 
 - Currently pursuing **MSc in Artificial Intelligence at Queen Mary University of London (London, UK)**  
 - Researching **Deepfake Audio Detection
-- Building a **stealth startup MVP**
 - Deepening my expertise in **Machine Learning, Data Science & Applied AI**
 - Strong background in **Angular, NodeJS, Django REST Framework, TypeScript, Python**
 - I write technical articles on [Medium](https://medium.com/@salmanqureshi97)

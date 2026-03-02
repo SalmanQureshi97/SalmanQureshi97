@@ -24,7 +24,7 @@
 
 **AI / Data**
 - Python, Pandas, NumPy, Scikit-learn
-- PyTorch / TensorFlow (if you're using it — add/remove accordingly)
+- PyTorch / TensorFlow
 - PostgreSQL
 
 **Backend**

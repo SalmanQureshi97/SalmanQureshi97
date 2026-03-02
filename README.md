@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | MSc Artificial Intelligence @ Queen Mary University of London | Musician</h3>
 
 - Currently pursuing **MSc in Artificial Intelligence at Queen Mary University of London (London, UK)**  
-- Researching **Deepfake Audio Detection & Robust ML Evaluation**
+- Researching **Deepfake Audio Detection
 - Building a **stealth startup MVP**
 - Deepening my expertise in **Machine Learning, Data Science & Applied AI**
 - Strong background in **Angular, NodeJS, Django REST Framework, TypeScript, Python**

@@ -6,12 +6,6 @@
 - My master's research focused on **AI-generated music detection**, model benchmarking and generalisation to unfamiliar data.
 - Previously a **Senior Software Engineer at Motive** and a **founding engineer** building an AI recruitment platform.
 
-### What I'm working on
-
-- Agent tooling, on-demand tool discovery, code execution and prompt-cache efficiency.
-- Knowledge Hub: collaborative documents, version history and knowledge connected directly to chat.
-- Reliable delivery across web, desktop and CLI through automated QA and shared interfaces.
-
 ### Tools I work with
 
 Go · TypeScript · Python · React · Angular · Node.js · Django · Docker · Kubernetes · AWS · GCP
